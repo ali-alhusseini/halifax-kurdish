@@ -1,6 +1,9 @@
 {
   "siteTitle": "Halifax Kurdish Society",
-  "home": "Home",
+  "intro": {
+    "paragraph1": "The Halifax Kurdish Society is community-driven organization dedicated to promoting Kurdish culture, language, and unity in Halifax. Through cultural events, education, and collaboration, we aim to strengthen the Kurdish presence in Nova Scotia.",
+    "paragraph2": "Join us in celebrating our heritage and building a vibrant future together."
+  },
   "language": {
     "en": "English",
     "ku": "Kurdî"

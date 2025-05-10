@@ -1,6 +1,9 @@
 {
   "siteTitle": "Civaka Kurdên Halifaxê",
-  "home": "Mal",
+  "intro": {
+    "paragraph1": "Civaka Kurdên Halifaxê rêkxistinek civakî ye ku li ser xebatên çandî, zimanî, û yekîtiya kurdî li Halifaxê dixebite. Di rêya bûyerên çandî, perwerdehayî, û hevakariyê de, em hewl didin civaka kurd li Nova Scotia bi pêş ve bixin.",
+    "paragraph2": "Bi me re bibin têkildar da ku em civakek çandî û pêşerojek zindî avabikin."
+  },
   "language": {
     "en": "Îngilîzî",
     "ku": "Kurdî"
