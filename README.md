@@ -1,3 +1,6 @@
 # Halifax Kurdish Society
-**This is the official website of the Halifax Kurdish Society.**  
-**Ev malpera fermî ya Civaka Kurdên Halifaxê ye.**
+
+<img src="src/assets/logo.png" alt="Society Logo" width="200px"/>
+
+Welcome to the official website of the Halifax Kurdish Society.  
+Hûn bi xêr hatine malpera fermî ya Civaka Kurdên Halifaxê.
