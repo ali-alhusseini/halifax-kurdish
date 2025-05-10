@@ -11,10 +11,12 @@ export default function Navbar() {
     <nav className="border-b shadow p-4 flex justify-between items-center">
       <h1 className="text-xl font-bold">{t('siteTitle')}</h1>
       <div className="space-x-2">
-        <button onClick={() => changeLanguage('en')} className="hover:underline">
+      
+
+        <button onClick={() => changeLanguage('en')} className="hover:underline font-semibold cursor-pointer">
           {t('language.en')}
         </button>
-        <button onClick={() => changeLanguage('ku')} className="hover:underline">
+        <button onClick={() => changeLanguage('ku')} className="hover:underline font-semibold cursor-pointer">
           {t('language.ku')}
         </button>
       </div>
