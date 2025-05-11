@@ -1,11 +1,16 @@
 {
   "siteTitle": "Halifax Kurdish Society",
   "intro": {
-    "paragraph1": "The Halifax Kurdish Society is community-driven organization dedicated to promoting Kurdish culture, language, and unity in Halifax. Through cultural events, education, and collaboration, we aim to strengthen the Kurdish presence in Nova Scotia.",
+    "paragraph1": "The Halifax Kurdish Society is a community-driven organization dedicated to promoting Kurdish culture, language, and unity in Halifax. Through cultural events, education, and collaboration, we aim to strengthen the Kurdish presence in Nova Scotia.",
     "paragraph2": "Join us in celebrating our heritage and building a vibrant future together."
   },
   "language": {
     "en": "English",
     "ku": "Kurdî"
+  },
+  "logo": {
+    "title": "Our Society's logo",
+    "subtitle": "A Symbol of Kurdish Heritage and Our Place in Nova Scotia.",
+    "description": "The Kurdish (Median) cuneiform in the logo represents the word “Kurd”, with the characters corresponding to the sounds: [KU], [U], and [D] respectively. Alongside this, the narwhal petroglyph, an early Mi'kmaq carving, symbolizes Halifax and Nova Scotia, our home today. This fusion of symbols reflects both our ancestral heritage and our presence in this land, honoring the past while looking toward the future."
   }
 }
