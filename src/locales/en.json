@@ -12,5 +12,22 @@
     "title": "Our Society's logo",
     "subtitle": "A Symbol of Kurdish Heritage and Our Place in Nova Scotia.",
     "description": "The Kurdish (Median) cuneiform in the logo represents the word “Kurd”, with the characters corresponding to the sounds: [KU], [U], and [D] respectively. Alongside this, the narwhal petroglyph, an early Mi'kmaq carving, symbolizes Halifax and Nova Scotia, our home today. This fusion of symbols reflects both our ancestral heritage and our presence in this land, honoring the past while looking toward the future."
+  },
+  "about": {
+    "title": "About Us",
+    "shortDescription": "The Halifax Kurdish Society is a community-driven organization dedicated to promoting Kurdish culture, language, and unity in Halifax. Through cultural events, education, and collaboration, we aim to strengthen the Kurdish presence in Nova Scotia.",
+    "longDescription": "The Halifax Kurdish Society is a community-driven organization dedicated to promoting Kurdish culture, language, and unity in Halifax. Through cultural events, education, and collaboration, we aim to strengthen the Kurdish presence in Nova Scotia. Our mission is to create a vibrant community that celebrates our heritage and fosters connections among Kurds and friends of the Kurdish culture. We believe in the power of culture to bring people together and create a sense of belonging."
+  },
+  "cardTitles": {
+    "about": "About Us",
+    "events": "Events",
+    "committee": "Committee",
+    "goals": "Goals"
+  },
+  "cards": {
+    "about": "The Halifax Kurdish Society is a non-profit organization dedicated to preserving and promoting the Kurdish culture and language in Halifax, Nova Scotia. We aim to create a vibrant community that celebrates our heritage and fosters connections among Kurds and friends of the Kurdish culture.",
+    "events": "We organize various cultural events, workshops, and educational programs to promote Kurdish culture and language. Our events are open to everyone, and we welcome all who are interested in learning about our rich heritage.",
+    "committee": "Our team is composed of dedicated volunteers who are passionate about promoting Kurdish culture and language. We work tirelessly to organize events, workshops, and educational programs that celebrate our heritage and foster connections within the community.",
+    "goals": "Our goals include promoting Kurdish culture and language, fostering community connections, and providing educational resources for those interested in learning about our heritage. We aim to create a welcoming environment for all who wish to learn about and celebrate Kurdish culture."
   }
 }

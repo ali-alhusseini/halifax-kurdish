@@ -1,10 +1,14 @@
 @import "tailwindcss";
-
 :root {
+  --color-kesk: #00350E;
+  --color-sor: #5C0507;
+  --color-zer: #FEBD11;
+
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
 
   color: #00350E;
   background-color: #FEBD11;
+  accent-color: #5C0507;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
