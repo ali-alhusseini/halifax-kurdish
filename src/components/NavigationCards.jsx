@@ -12,6 +12,7 @@ export default function NavigationCards() {
 
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-12 px-6">
+      <h1 className="text-4xl mb-6 font-semibold col-span-full">{t("navigationCardsTitle")}</h1>
       {cards.map((card, index) => (
         <div
           key={index}
