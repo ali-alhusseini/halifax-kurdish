@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div className="flex flex-wrap p-6 md:text-left">
       <div className="w-full md:w-1/2 flex flex-col justify-center items-center md:items-start">
-        <h1 className="mb-3 text-2xl md:text-5xl">{t("intro.paragraph1")}</h1>
-        <p className="mb-3 text-lg">{t("intro.paragraph2")}</p>
+        <h1 className="mb-3 text-3xl md:text-5xl">{t("intro.paragraph1")}</h1>
+        <p className="mb-3 text-xl">{t("intro.paragraph2")}</p>
       </div>
       <div className="w-full md:w-1/2 flex justify-center items-center">
           <img
@@ -17,6 +17,6 @@ export default function Home() {
             className="w-100 h-auto mt-12 md:mt-0 transition-transform duration-300 group-hover:scale-105"
           />
         </div>
-    </div>
+    </div>    
   );
 }

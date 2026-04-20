@@ -12,8 +12,8 @@ export default function Navbar() {
   }
 
   return (
-    <nav className="border-b shadow p-6 flex justify-between items-center">
-      <h1 className="text-xl font-bold">{t('siteTitle')}</h1>
+    <nav className="border-b shadow px-6 py-3 flex justify-between items-center">
+      <a href='/'><h1 className="text-xl font-bold">{t('siteTitle')}</h1></a>
       <div className="space-x-2">
         <button onClick={() => changeLanguage()} className="relative group font-semibold cursor-pointer">
           {i18n.language === 'en' ? t('Kurdî') : t('English')}
