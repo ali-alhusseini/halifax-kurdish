@@ -7,6 +7,7 @@ import About from './pages/About'
 import Events from './pages/Events'
 import Committee from './pages/Committee'
 import Goals from './pages/Goals'
+import PrivacyPolicy from './pages/PrivacyPolicy'
 
 export default function App() {
   return (
@@ -26,6 +27,7 @@ export default function App() {
         <Route path="/events" element={<Events />} />
         <Route path="/committee" element={<Committee />} />
         <Route path="/goals" element={<Goals />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
       </Routes>
       <Footer />
     </Router>

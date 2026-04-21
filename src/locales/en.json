@@ -31,5 +31,40 @@
     "events": "We organize various cultural events, workshops, and educational programs to promote Kurdish culture and language. Our events are open to everyone, and we welcome all who are interested in learning about our rich heritage.",
     "committee": "Our team is composed of dedicated volunteers who are passionate about promoting Kurdish culture and language. We work tirelessly to organize events, workshops, and educational programs that celebrate our heritage and foster connections within the community.",
     "goals": "Our goals include promoting Kurdish culture and language, fostering community connections, and providing educational resources for those interested in learning about our heritage. We aim to create a welcoming environment for all who wish to learn about and celebrate Kurdish culture."
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "contact": "Contact"
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 21, 2026",
+    "intro": "The Halifax Kurdish Society respects your privacy. This policy explains what information we collect through our website and how we use and protect it.",
+    "sections": [
+      {
+        "heading": "Information we collect",
+        "body": "We may collect personal information that you choose to share with us, such as your name, email address, and message when you contact us."
+      },
+      {
+        "heading": "How we use your information",
+        "body": "We use your information to respond to inquiries, share updates about our activities, and improve our website and community services."
+      },
+      {
+        "heading": "Cookies and analytics",
+        "body": "Our website may use basic cookies or analytics tools to understand website traffic and improve user experience. You can manage cookies through your browser settings."
+      },
+      {
+        "heading": "How we protect your information",
+        "body": "We take reasonable administrative and technical steps to protect personal information from unauthorized access, disclosure, or misuse."
+      },
+      {
+        "heading": "Third-party links",
+        "body": "Our website may include links to external websites. We are not responsible for the privacy practices of third-party websites."
+      },
+      {
+        "heading": "Contact us",
+        "body": "If you have questions about this Privacy Policy or your personal information, please contact the Halifax Kurdish Society."
+      }
+    ]
   }
 }
