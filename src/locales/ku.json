@@ -30,5 +30,40 @@
     "events": "Em ji bo danasîna çand û zimanê kurdî gelek çalakiyên çandî, atolye û bernameyên perwerdehiyê li dar dixin. Çalakiyên me ji her kesî re vekirî ne, û em pêşwaziya hemû kesên ku dixwazin li ser mîrata me ya dewlemend hîn bibin, dikin.",
     "committee": "Tîma me ji dilxwazên fedakar pêk tê, ku ji bo pêşxistina çand û zimanê kurdî dilgiran in. Em bêwestan dixebitin ji bo organîzekirina bûyer, atolye û bernameyên perwerdehiyê yên ku mîrata me pîroz dikin û têkiliyên di nav civakê de xurt dikin.",
     "goals": "Armancên me pêşvebirina çand û zimanê kurdî, xurtkirina têkiliyên civakê û peydakirina çavkaniyên perwerdehiyê ji bo kesên ku dixwazin li ser mîrata me fêr bibin. Armanca me ew e ku ji bo hemû kesên ku dixwazin çanda kurdî hîn bibin û pîroz bikin, hawîrdorek xweş çêbikin."
+  },
+  "footer": {
+    "privacyPolicy": "Policya Nepenîtiyê",
+    "contact": "Têkilî"
+  },
+  "privacyPolicy": {
+    "title": "Policya Nepenîtiyê",
+    "lastUpdated": "Dawî nûkirin: 21 Nîsan 2026",
+    "intro": "Civaka Kurdên Halifaxê rêza nepenîtiya te digire. Ev policy diyar dike ku em çi agahiyan ji malpera xwe berhev dikin, ka em wan çawa bi kar tînin û diparêzin.",
+    "sections": [
+      {
+        "heading": "Agahiyên ku em berhev dikin",
+        "body": "Dibe ku em agahiyên kesane yên ku tu bi xwe dide, wek nav, navnîşa e-nameyê, û peyamê dema ku bi me re têkilî dike, berhev bikin."
+      },
+      {
+        "heading": "Em agahiyên te çawa bi kar tînin",
+        "body": "Em agahiyên te ji bo bersivdana pirsan, parvekirina nûçeyan derbarê çalakiyên me de, û baştirkirina malpera me û xizmetên civakî bi kar tînin."
+      },
+      {
+        "heading": "Cookies û analytics",
+        "body": "Dibe ku malpera me cookies an amûrên bingehîn ên analytics bi kar bîne da ku trafîka malperê fêm bike û ezmûna bikarhêner baştir bike. Tu dikarî cookies di mîhengên gerokê xwe de birêve bibî."
+      },
+      {
+        "heading": "Em agahiyên te çawa diparêzin",
+        "body": "Em gavên idari û teknîkî yên guncaw digirin da ku agahiyên kesane ji gihîştina ne-authorized, belavkirin, an bikaranîna xerab were parastin."
+      },
+      {
+        "heading": "Girêdanên aliyê sêyem",
+        "body": "Dibe ku malpera me girêdanên malperên derve hebe. Em ji bo rêbazên nepenîtiyê yên malperên aliyê sêyem berpirsiyar nînin."
+      },
+      {
+        "heading": "Bi me re têkilî bikin",
+        "body": "Heke pirsên te derbarê vê Policya Nepenîtiyê an agahiyên kesane yên te de hene, ji kerema xwe re bi Civaka Kurdên Halifaxê re têkilî bike."
+      }
+    ]
   }
 }
