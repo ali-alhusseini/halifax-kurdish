@@ -1,10 +1,8 @@
-# Halifax Kurdish Society Website
+# Halifax Kurdish Society Web Application
 
 <img src="src/assets/logo.png" alt="Society Logo" width="200px"/>
 
 A modern, bilingual web application for the Halifax Kurdish Society, dedicated to promoting Kurdish culture, language, and community in Halifax, Nova Scotia.
-
-**English** | **Kurdî**
 
 ---
 
@@ -148,7 +146,3 @@ Contributions are welcome! Feel free to:
 ## 📄 License
 
 This project is open source and available under the MIT License.
-
----
-
-**Welcome to the Halifax Kurdish Society! | Hûn bi xêr hatine Civaka Kurdên Halifaxê!**
